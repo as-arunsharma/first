@@ -19,7 +19,6 @@ int main()
 			break;
 		}
 	}
-	cout<<"arun";
 	if(flag)
 	cout<<"NO";
 	else 
